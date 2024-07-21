@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cucumber_example.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.657 s -- in cucumber_example.TestRunner
